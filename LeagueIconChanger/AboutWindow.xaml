@@ -1,0 +1,17 @@
+﻿<Window x:Class="LeagueIconChanger.AboutWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:LeagueIconChanger"
+        mc:Ignorable="d"
+        Title="AboutWindow" Height="450" Width="800" Initialized="Window_Initialized">
+    <Grid>
+        <Image HorizontalAlignment="Left" Height="100" Margin="97,60,0,0" VerticalAlignment="Top" Width="100" Name="CreditImage"/>
+        <Label Content="League Icon Changer v.1.0" HorizontalAlignment="Left" Margin="228,82,0,0" VerticalAlignment="Top" Height="63" Width="458" FontSize="36"/>
+        <Label Content="by: Festive Lux" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="228,133,0,0" FontSize="20"/>
+        <Button Content="Github" HorizontalAlignment="Left" Margin="461,312,0,0" VerticalAlignment="Top" Width="251" Height="58" FontSize="20" Click="Button_Click"/>
+        <Button Content="Reddit Thread" HorizontalAlignment="Left" Margin="63,312,0,0" VerticalAlignment="Top" Width="248" Height="58" FontSize="20" Click="Button_Click_1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="97,221,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.155,0.363" Height="63" Width="589"><Run Text="LeagueIconChanger isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games"/><LineBreak/><Run Text="or anyone officially involved in producing or managing League of Legends. League of Legends and Riot Games are trademarks or registered trademarks of Riot Games, Inc. League of Legends © Riot Games, Inc."/></TextBlock>
+    </Grid>
+</Window>

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28407.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeagueIconChanger", "LeagueIconChanger\LeagueIconChanger.csproj", "{EAD25BBF-942C-4127-878C-B0B260D1979C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAD25BBF-942C-4127-878C-B0B260D1979C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAD25BBF-942C-4127-878C-B0B260D1979C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAD25BBF-942C-4127-878C-B0B260D1979C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAD25BBF-942C-4127-878C-B0B260D1979C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4EE80721-5D9C-49A9-83DB-8760ED291AC8}
+	EndGlobalSection
+EndGlobal
