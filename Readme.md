@@ -4,6 +4,8 @@ LeagueIconChanger is a simple application mostly designed for People to not get 
 Let me explain: Its currently possible to change your Summoner Icon to one of the chinese ones. (Example: [Icon](http://leagueoflegends.wikia.com/wiki/Summoner_icon?file=Tencent_Lux_profileicon.png))
 And it has come to my attention that people actually hand over their accounts to somebody to change it for money. And since id like people to not get scammed of their account, i made this application.
 
+### Riot is already aware of the issue and is working on a fix. If you still intend on using this, go ahead, but Im not responsible for your account.
+
 ## Usage:
 	- Download the application
 	- Open it and the rest should be self explanatory. If you have any issues, just create an issue here. Thank you :)
